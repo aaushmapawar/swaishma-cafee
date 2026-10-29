@@ -1,0 +1,6 @@
+{
+  "name": "Swaishma Café - Beachside Dining & Coffee, Goa",
+  "description": "Warm, breezy, and relaxed beachside café experience on Anjuna Beach, Goa with Arabian Sea views, artisanal coffees, coastal dining, video tour, reviews, and interactive menu.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
